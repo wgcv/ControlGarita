@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ControlGarita</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Menu abierto</string>
+    <string name="drawer_close">Menu cerrado</string>
+    <string name="title_activity_abrir">Abrir</string>
+    <string name="title_activity_solicitudes">Solicitudes</string>
+    <string name="title_activity_enviar">enviar</string>
+    <string name="title_activity_registrar">Registrar</string>
+</resources>
